@@ -1,5 +1,5 @@
 # AndroidTrivia
-###Quiz App
+### Quiz App
 
 About the App:
 - Language Used - Kotlin
@@ -9,7 +9,8 @@ User can:
 - Play a series of 3 quiz questions at a stretch to win
 - Share the results to people after winning
 - Replay the game after giving a wrong answer
-Uses :
+
+Uses:
 - Fragment
 - Navigation Paths
 - External Activity
