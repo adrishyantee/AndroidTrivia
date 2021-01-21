@@ -17,20 +17,14 @@ Uses:
 
 # Screenshots : 
 
-## Main Screen
-  <img src="screenshots/AppSS1.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## Rules 
-  <img src="screenshots/AppSS2.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## About
-  <img src="screenshots/AppSS3.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## Android Trivia - the game
-  <img src="screenshots/AppSS1.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## Game Won
-  <img src="screenshots/AppSS1.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## Share
-  <img src="screenshots/AppSS1.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Main Screen                                                                                ## Rules 
+  <img src="screenshots/6.jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="screenshots/5.jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## About                                                                                      ## Android Trivia - the game
+  <img src="screenshots/7jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="screenshots/4.jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Game Won                                                                                   ## Share
+  <img src="screenshots/3.jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="screenshots/2.jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Game Lost
-  <img src="screenshots/AppSS1.jpg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/1.jpeg" width="256" height="455">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 # How to use it?
